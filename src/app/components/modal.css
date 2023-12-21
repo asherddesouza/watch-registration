@@ -1,0 +1,16 @@
+.successModal {
+    display: flex;
+    flex-direction: column;
+    border-width: 5px;
+    border-style: solid;
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    padding: 20px;
+    background-color: #239e81;
+    z-index: 1;
+    font-weight: bold;
+    border-color: black;
+    color: white;
+    position: absolute;
+}
